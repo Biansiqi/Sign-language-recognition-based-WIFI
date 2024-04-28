@@ -1,0 +1,3 @@
+https://wm1693.app.box.com/s/pvlrxb7cxexgfquyt1dqn52a49kz90db
+signfi_cnn_example.m
+使用数据集进行训练和测试的 MATLAB 源代码
